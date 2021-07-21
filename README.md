@@ -7,4 +7,4 @@ Step 2: Run Jupyter file
 Step 3: Double click on the image to see colour name
 
 
-Video Link :
+Video Link :https://www.youtube.com/watch?v=U0ErGKfc5oc
